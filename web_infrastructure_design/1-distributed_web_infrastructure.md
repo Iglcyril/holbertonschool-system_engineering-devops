@@ -1,3 +1,7 @@
+
+<img width="605" height="505" alt="Copie d&#39;écran_20260603_111805" src="https://github.com/user-attachments/assets/53016d0c-d694-4637-b42b-51f4c5120f99" />
+
+
 Why each element is added
 The load balancer (HAproxy) is added to distribute incoming traffic across multiple servers, avoiding overload on a single machine and improving availability. The two servers are added to handle requests in parallel and eliminate the single server SPOF from the previous infrastructure. The Primary-Replica database setup is added to separate read and write operations and protect data in case of a server failure.
 Load balancer distribution algorithm
