@@ -1,3 +1,4 @@
+<img width="164" height="150" alt="simple_web_stack_0" src="https://github.com/user-attachments/assets/c1ecbbc3-5ffa-4fae-b994-e1df7b111330" />
 
 
 What is a server?
