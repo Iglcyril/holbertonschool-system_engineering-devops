@@ -1,3 +1,7 @@
+
+<img width="701" height="646" alt="Copie d&#39;écran_20260603_112147" src="https://github.com/user-attachments/assets/8c9b3c3a-f982-47dc-9bc3-b47d590c81f3" />
+
+
 Why each element is added
 Three firewalls are added to filter and control incoming and outgoing traffic, one in front of the load balancer and one in front of each server. An SSL certificate is added to encrypt traffic between the user and the website. Three monitoring clients are added, one per machine, to collect metrics and send them to Sumologic.
 What firewalls are for
