@@ -1,3 +1,5 @@
+<img width="605" height="505" alt="Copie d&#39;écran_20260603_110302" src="https://github.com/user-attachments/assets/f1cb96b4-859c-4ce8-8614-cd6feb3fa1e6" />
+
 
 
 What is a server?
