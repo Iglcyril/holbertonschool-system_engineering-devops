@@ -1,13 +1,24 @@
 
+<img width="605" height="505" alt="Copie d&#39;écran_20260603_110302" src="https://github.com/user-attachments/assets/2c62d7b8-7dcf-4e02-880d-1987d7a2613b" />
+
 
 What is a server?
+
 A device or program that provides services/resources to other machines called clients.
+
 Role of the domain name
+
 foobar.com is a human-readable alias. Without it, users would need to type 8.8.8.8 directly. It maps a name to an IP address.
+
 What type of DNS record is www?
+
 It's an A record — it maps the hostname www.foobar.com to the IPv4 address 8.8.8.8.
+
 Role of the web server (Nginx)
+
 Receives incoming HTTP requests. Serves static files directly (HTML, CSS, images). Forwards dynamic requests to the application server.
+<img width="164" height="150" alt="simple_web_stack_0" src="https://github.com/user-attachments/assets/9a47940f-5f2b-469f-a370-4a83e6e1d6a8" />
+
 Role of the application server
 Executes the application logic (e.g. PHP, Python, Ruby). Processes the request, queries the database if needed, and returns a dynamic response to Nginx.
 Role of the database (MySQL)
