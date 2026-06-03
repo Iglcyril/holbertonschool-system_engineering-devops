@@ -20,10 +20,15 @@ Receives incoming HTTP requests. Serves static files directly (HTML, CSS, images
 <img width="164" height="150" alt="simple_web_stack_0" src="https://github.com/user-attachments/assets/9a47940f-5f2b-469f-a370-4a83e6e1d6a8" />
 
 Role of the application server
+
 Executes the application logic (e.g. PHP, Python, Ruby). Processes the request, queries the database if needed, and returns a dynamic response to Nginx.
+
 Role of the database (MySQL)
+
 Stores, organizes, and retrieves persistent data (users, posts, orders…). The app server queries it via SQL.
+
 Protocol used to communicate with the user's computer
+
 HTTP (or HTTPS) over TCP/IP.
 
 Issues with this infrastructure:
